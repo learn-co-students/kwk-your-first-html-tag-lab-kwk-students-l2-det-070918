@@ -1,7 +1,7 @@
 # Your First HTML Tag
 
 ## Objectives
-
+<h1>
 1. Code an `h1` tag in `index.html`
 2. Set the inner text of the `h1` to `Hello, World!`
 
